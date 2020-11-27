@@ -2,7 +2,7 @@
 
 This repository contains companion code for the article ["A parallel-in-time approach for accelerating direct-adjoint studies"](https://doi.org/10.1016/j.jcp.2020.110033) by C. S. Skene, M. F. Eggl and P. J. Schmid (JCP, 2020). The code is not the code used for the article but is a new version written for educational purposes. We recommend that the user independently validates the code for their own purposes.
 
-The algorithms are based on ["PARAEXP: A Parallel Integrator for Linear Initial-Value Problems"](https://doi.org/10.1137/110856137) by M. J. Gander and Güttel (SIAM J. Sci. Comput., 2013) as well as ["A block Krylov subspace implementation of the time-parallel Paraexp method and its extension for nonlinear partial differential equations"](https://doi.org/10.1016/j.cam.2016.09.036) by G. L. Kooij, M. A. Botchev and B. J. Geurts (J. Comput. Appl. Math, 2017).
+The algorithms are based on ["PARAEXP: A Parallel Integrator for Linear Initial-Value Problems"](https://doi.org/10.1137/110856137) by M. J. Gander and S. Güttel (SIAM J. Sci. Comput., 2013) as well as ["A block Krylov subspace implementation of the time-parallel Paraexp method and its extension for nonlinear partial differential equations"](https://doi.org/10.1016/j.cam.2016.09.036) by G. L. Kooij, M. A. Botchev and B. J. Geurts (J. Comput. Appl. Math, 2017).
 
 The code is written in python and utilises the following libraries
 
