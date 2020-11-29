@@ -34,4 +34,5 @@ The non-linear hybrid algorithm from section 3.3 is demonstrated by _viscousBurg
 mpiexec -n np python viscousBurgersHyb.py
 ``
 
+# Acknowledgements
 The authors gratefully acknowledge the EPSRC and Roth PhD scholarships on which this research was conducted.
