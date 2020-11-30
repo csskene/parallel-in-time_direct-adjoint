@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/316544299.svg)](https://zenodo.org/badge/latestdoi/316544299)
+
 # A parallel-in-time approach for accelerating direct-adjoint studies (companion code)
 
 This repository contains companion code for the article ["A parallel-in-time approach for accelerating direct-adjoint studies"](https://doi.org/10.1016/j.jcp.2020.110033) by C. S. Skene, M. F. Eggl and P. J. Schmid (JCP, 2020). The code is not the code used for the article but is a new version written for educational purposes. We recommend that the user independently validates the code for their own purposes.
