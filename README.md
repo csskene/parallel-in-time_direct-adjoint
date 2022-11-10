@@ -36,5 +36,16 @@ The non-linear hybrid algorithm from section 3.3 is demonstrated by _viscousBurg
 mpiexec -n np python viscousBurgersHyb.py
 ``
 
+# Citation
+If you find this repository useful for your research please cite the paper
+```
+@article{Skene_Eggl_Schmid_2021,
+title={A parallel-in-time approach for accelerating direct-adjoint studies},
+author={C.S. Skene and M.F. Eggl and P.J. Schmid},
+journal = {Journal of Computational Physics},
+volume = {429},
+pages = {110033},
+year = {2021}}
+```
 # Acknowledgements
 The authors gratefully acknowledge the EPSRC and Roth PhD scholarships on which this research was conducted.
